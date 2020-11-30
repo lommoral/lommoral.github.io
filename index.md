@@ -132,7 +132,7 @@
     <div class="role container-fluid">
         <h2>Graduate Student Researcher.</h2>
         <p class="company">
-            <a href="https://www.ucsc.edu/">
+            <a href="https://www.ucsc.edu/" target="_blank">
                 University of California, Santa Cruz</a>.
         </p>
         <p class="range">
