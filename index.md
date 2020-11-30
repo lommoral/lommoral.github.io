@@ -30,7 +30,7 @@
             Email: <a href="mailto:lmmoralesvill@gmail.com">lmmoralesvill@gmail.com</a>
         </p>
         <p>
-            <a href="linkedin.com/in/lommoral" target="_blank">
+            <a href="https://www.linkedin.com/in/lommoral/" target="_blank">
                 LinkedIn
                 <span class="glyphicon glyphicon-new-window"></span>
             </a>
