@@ -1,0 +1,73 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+header{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color:black;
+    color: white;
+}
+header h1{
+    font-size: 22px;
+}
+header p{
+    font-size: 16px;
+}
+/* header p a{
+    color:yellowgreen;
+}
+header p a:hover{
+    color:lightgray;
+} */
+footer{
+    padding-bottom: 20px;
+}
+ul{
+    padding-left: 20px;
+}
+ul li{
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+p{
+    font-size: 16px;
+}
+.company a{
+    font-weight: 500;
+    font-size: 18px;
+}
+.range{
+    font-weight: 200;
+}
+.role{
+    padding-bottom: 20px;
+    border: .5px solid gray;
+}
+
+h1{  
+    font-size: 20px;
+    font-weight:600;
+}
+h2{
+    font-size: 18px;
+    font-weight:600;
+}
+h3{
+    font-size: 16px;
+    font-weight:500;
+}
+
+.btn-block{
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    text-align: left;
+}
+.btn-dark{
+    background-color: black;
+    color: gainsboro;
+}
+.btn-dark:hover{
+    color: white;
+}
