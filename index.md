@@ -46,7 +46,8 @@
         <p class="duties">
             <ul>
                 <li>
-                    Cowrote guide and developed form to assist conferences in creating their own Accessibility FAQ page.
+                    Cowrote guide and developed form to help conferences create their own 
+                    Accessibility FAQ (Frequently Asked Questions) page.
                 </li>
                 <li>
                     Tools: HTML, CSS and JavaScript.
