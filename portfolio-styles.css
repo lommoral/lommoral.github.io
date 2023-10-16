@@ -4,7 +4,7 @@ body{
 header{
     padding-top: 5px;
     padding-bottom: 10px;
-    background-color:black;
+    background-color: rgb(10,45,95);
     color: white;
 }
 header h1{
@@ -12,6 +12,14 @@ header h1{
 }
 header p{
     font-size: 16px;
+}
+header a{
+    color: rgb(233, 229, 16);
+}
+header a:hover, header a:focus{
+    color: rgb(10,45,95);
+    background-color:rgb(233, 229, 16);
+    border: 1px solid rgb(233, 229, 16);
 }
 ul{
     padding-left: 20px;
@@ -26,6 +34,10 @@ p{
 .company a{
     font-weight: 500;
     font-size: 18px;
+    color: rgb(10,45,95);
+}
+.company a:hover{
+    background-color:rgb(233, 229, 16);
 }
 .range{
     font-weight: 200;
@@ -34,7 +46,7 @@ p{
     padding-bottom: 20px;
     border: .5px solid gray;
 }
-h1{  
+h1{
     font-size: 20px;
     font-weight:600;
 }
@@ -46,22 +58,12 @@ h3{
     font-size: 18px;
     font-weight:300;
 }
-.btn-block{
-    font-size: 16px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin-top: 20px;
-    text-align: left;
-    white-space: normal;
+.btn{
+    background-color:rgb(10,45,95);
+    border: .5px solid rgb(10,45,95);
 }
-.btn-dark{
-    background-color: black;
-    color: gainsboro;
-}
-.btn-dark:hover{
-    color: white;
-}
-
-.btn-link{
-    background-color:gainsboro;
+.btn:hover, .btn:focus{
+    color: rgb(10,45,95);
+    border: 1px solid rgb(10,45,95);
+    background-color:rgb(233, 229, 16);
 }
