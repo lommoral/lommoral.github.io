@@ -36,7 +36,7 @@ p{
     font-size: 18px;
     color: rgb(10,45,95);
 }
-.company a:hover{
+.company a:hover, .company a:focus{
     background-color:rgb(233, 229, 16);
 }
 .range{
@@ -58,12 +58,12 @@ h3{
     font-size: 18px;
     font-weight:300;
 }
-.btn{
-    background-color:rgb(10,45,95);
-    border: .5px solid rgb(10,45,95);
-}
-.btn:hover, .btn:focus{
-    color: rgb(10,45,95);
-    border: 1px solid rgb(10,45,95);
+ul li a:hover, ul li a:focus{
     background-color:rgb(233, 229, 16);
+}
+.samples{
+    padding-left: 15px;
+}
+.samples li{
+    padding-top: 5px;
 }
